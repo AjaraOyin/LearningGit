@@ -5,3 +5,4 @@
 # well, lets learn how to create a new branch
 Now included in my github local
 # just wanna get through this
+Hello, git push studies. Monday learn.
